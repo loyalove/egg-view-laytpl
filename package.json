@@ -7,8 +7,9 @@
   },
   "keywords": [
     "egg",
-    "eggPlugin",
-    "egg-plugin"
+    "egg-plugin",
+    "egg-view",
+    "laytpl"
   ],
   "dependencies": {
     "laytpl": "^1.3.6"
@@ -46,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-view-laytpl.git"
+    "url": "git+https://github.com/loyalove/egg-view-laytpl.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/loyalove/egg-view-laytpl/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-view-laytpl#readme",
+  "homepage": "https://github.com/loyalove/egg-view-laytpl#readme",
   "author": "loyalove",
   "license": "MIT"
 }
