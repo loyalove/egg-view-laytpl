@@ -1,9 +1,12 @@
 {
   "name": "egg-view-laytpl",
-  "version": "1.0.2",
-  "description": "egg+laytpl",
+  "version": "1.0.3",
+  "description": "egg view plugin for laytpl",
   "eggPlugin": {
-    "name": "laytpl"
+    "name": "laytpl",
+    "dependencies": [
+      "view"
+    ]
   },
   "keywords": [
     "egg",

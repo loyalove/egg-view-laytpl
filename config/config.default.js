@@ -20,6 +20,8 @@ module.exports = appInfo => {
       compileDebug: true,
       delimiter: null,
       strict: false,
+      open: '<%',
+      close: '%>',
     },
   };
 };

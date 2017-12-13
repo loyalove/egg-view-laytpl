@@ -45,6 +45,8 @@ exports.laytpl = {
 ```js
 // {app_root}/config/config.default.js
 exports.laytpl = {
+  open: '<%',
+  close: '%>'
 };
 ```
 
